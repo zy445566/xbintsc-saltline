@@ -1,0 +1,8 @@
+{
+  "entry": "main.ts",
+  "outDir": "build",
+  "extensions": ["gui","node"],
+  "app": {
+    "name": "saltline"
+  }
+}
