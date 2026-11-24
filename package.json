@@ -1,0 +1,22 @@
+{
+  "name": "xbintsc-saltline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx xbintsc build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zy445566/xbintsc-saltline.git"
+  },
+  "author": "zy445566",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zy445566/xbintsc-saltline/issues"
+  },
+  "homepage": "https://github.com/zy445566/xbintsc-saltline#readme",
+  "dependencies": {
+    "xbintsc": "^0.7.8"
+  }
+}

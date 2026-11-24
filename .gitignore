@@ -1,2 +1,3 @@
 .xbintsc/
 build/
+node_modules/
