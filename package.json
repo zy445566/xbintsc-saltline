@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zy445566/xbintsc-saltline#readme",
   "dependencies": {
-    "xbintsc": "^0.7.8"
+    "xbintsc": "^0.7.9"
   }
 }

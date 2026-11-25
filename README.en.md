@@ -129,7 +129,6 @@ For more on the language subset, extensions and the GUI engine, see the [xbintsc
 
 The GUI engine is not a browser, so a few web capabilities differ:
 
-- **Fonts**: its `@font-face` support reads local TTF/TTC/OTF faces, not WOFF2, so headings and the HUD fall back to system fonts and metrics may differ slightly from the web screenshots.
 - **CSS**: `mask-image` gradients, range-input pseudo-elements such as `::-webkit-slider-thumb`, `color-scheme` and similar properties are ignored; behaviour is unaffected but some details are simplified.
 - **Input / fullscreen**: pointer lock and fullscreen depend on the engine and the OS; when unavailable the game uses drag-look and hides the fullscreen button.
 - **Startup time**: the level, textures and audio are generated at launch, so the first run takes a few seconds and longer on low-end machines.
